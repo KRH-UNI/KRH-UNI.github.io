@@ -1,4 +1,4 @@
 # KRH-UNI.github.io
-First Repository
+First Repository.
 Cool stuff.
-Justt give me my diploma.
+Just give me my diploma.
