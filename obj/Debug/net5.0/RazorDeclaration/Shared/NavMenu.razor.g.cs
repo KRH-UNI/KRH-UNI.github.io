@@ -90,7 +90,7 @@ using KRH_UNI.github.io.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "C:\Users\User\Documents\School\Semester 2021-2022\Fall 2021\CSCE 190 - Modern Computing\KRH-UNI.github.io\Shared\NavMenu.razor"
+#line 38 "C:\Users\User\Documents\School\Semester 2021-2022\Fall 2021\CSCE 190 - Modern Computing\KRH-UNI.github.io\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
